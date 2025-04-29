@@ -1,3 +1,4 @@
 exp/
 data_esp.csv
 filtered_data_esp.csv
+__pycache__/
