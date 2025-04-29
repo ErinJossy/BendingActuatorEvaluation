@@ -10,7 +10,7 @@ time = []
 
 with open('filtered_data.csv', 'w', newline='') as file:
     writer = csv.writer(file)
-    writer.writerow(['distance mm', 'fsr reading', 'time ms'])
+    writer.writerow(['distance mm', 'fsr  (grams)', 'time ms'])
                         
 
 with open('data_esp.csv', 'r', newline='') as file:
