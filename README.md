@@ -15,3 +15,4 @@ Ensure your phone and PC is connected to same network and download the [IP Camer
 ### ESP32 Folder
 - ReadFSR: to read FSR value from ESP32
 - ReadVL53L0X: to read TOF sensor
+- SendValues: send values distance,fsr,millis to Serial at 115200 baud rate 
