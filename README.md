@@ -1,6 +1,12 @@
 # To Evaluate Bending Soft Actuator
 ## Camera set up
 Ensure your phone and PC is connected to same network and download the [IP Camera](https://play.google.com/store/apps/details?id=com.pas.webcam&pcampaignid=web_share) and launch IP cam server on phone and copy its IP address
+## Code setup
+- Download the code from the code tab
+### Install dependencies
+```Bash
+pip install -r requirements.txt
+```
 ## Files included
 ### hsv_tuner.py
 - To find the hsv value of interested object
